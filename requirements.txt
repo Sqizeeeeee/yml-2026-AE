@@ -1,0 +1,7 @@
+
+ipykernel
+numpy
+torch
+torch-vision
+matplotlib
+seaborn
